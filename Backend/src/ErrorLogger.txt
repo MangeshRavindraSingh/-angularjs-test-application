@@ -1,0 +1,9 @@
+Thu Apr 28 2022 18:19:51 GMT+0530 (India Standard Time) - Error: No result found for this Id
+    at C:\Users\DELL\Downloads\Project\Backend\src\model\result.js:12:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 28 2022 18:20:29 GMT+0530 (India Standard Time) - ReferenceError: Cannot access 'result' before initialization
+    at C:\Users\DELL\Downloads\Project\Backend\src\model\result.js:21:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 28 2022 18:22:13 GMT+0530 (India Standard Time) - TypeError: collection is not a constructor
+    at C:\Users\DELL\Downloads\Project\Backend\src\model\result.js:21:30
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
